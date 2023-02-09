@@ -1,7 +1,7 @@
 {
     "name": "savvii/openprovider-rest",
     "description": "PHP client for the Openprovider REST API",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": [
         "openprovider",
         "openapitools",
