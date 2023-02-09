@@ -41,10 +41,10 @@ $config->setApiKeyPrefix('Authorization', 'Bearer');
 $config->setDebug(false);
 
 $loginResult = (new \Savvii\OpenproviderRest\Api\AuthApi())->login(
-    [
+    new \Savvii\OpenproviderRest\Model\AuthLoginRequest([
         'username' => '__FILL_ME__',
         'password' => '__FILL_ME__'
-    ]
+    ])
 );
 
 $config->setApiKey('Authorization', $loginResult->getData()->getToken());
