@@ -1,0 +1,45 @@
+# # SettingsPaymentMethodLimit
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**aud** | **float** |  | [optional]
+**bgn** | **float** |  | [optional]
+**brl** | **float** |  | [optional]
+**cad** | **float** |  | [optional]
+**chf** | **float** |  | [optional]
+**cny** | **float** |  | [optional]
+**czk** | **float** |  | [optional]
+**dkk** | **float** |  | [optional]
+**eek** | **float** |  | [optional]
+**eur** | **float** |  | [optional]
+**gbp** | **float** |  | [optional]
+**ghs** | **float** |  | [optional]
+**hkd** | **float** |  | [optional]
+**hrk** | **float** |  | [optional]
+**huf** | **float** |  | [optional]
+**idr** | **float** |  | [optional]
+**ils** | **float** |  | [optional]
+**inr** | **float** |  | [optional]
+**jpy** | **float** |  | [optional]
+**krw** | **float** |  | [optional]
+**lkr** | **float** |  | [optional]
+**ltl** | **float** |  | [optional]
+**lvl** | **float** |  | [optional]
+**mxn** | **float** |  | [optional]
+**myr** | **float** |  | [optional]
+**nok** | **float** |  | [optional]
+**nzd** | **float** |  | [optional]
+**php** | **float** |  | [optional]
+**pln** | **float** |  | [optional]
+**ron** | **float** |  | [optional]
+**rub** | **float** |  | [optional]
+**sek** | **float** |  | [optional]
+**sgd** | **float** |  | [optional]
+**thb** | **float** |  | [optional]
+**try** | **float** |  | [optional]
+**usd** | **float** |  | [optional]
+**zar** | **float** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)

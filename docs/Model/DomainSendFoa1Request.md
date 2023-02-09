@@ -1,0 +1,10 @@
+# # DomainSendFoa1Request
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**domain** | [**\Savvii\OpenproviderRest\Model\DomainDomain**](DomainDomain.md) |  | [optional]
+**id** | **int** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
