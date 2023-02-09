@@ -36,7 +36,7 @@ $loginResult = (new \Savvii\OpenproviderRest\Api\AuthApi())->login(
 $config->setApiKey('Authorization', $loginResult->getData()->getToken());
 
 $domainApi = new \Savvii\OpenproviderRest\Api\DomainServiceApi(config: $config);
-$listResponse = $domainApi->listDomains(full_name: 'dhm-infra.nl', limit: 1);
+$listResponse = $domainApi->listDomains(full_name: 'savvii.nl', limit: 1);
 $data = $listResponse->getData();
 if (1 == $data->getTotal())
 {
