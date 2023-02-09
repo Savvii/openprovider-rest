@@ -1,0 +1,47 @@
+# # DomainAdditionalData
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**abogado_acceptance** | **string** |  | [optional]
+**admin_sing_pass_id** | **string** |  | [optional]
+**ae_acceptance** | **string** |  | [optional]
+**allocation_token** | **string** |  | [optional]
+**auth_code** | **string** |  | [optional]
+**bank_acceptance** | **string** |  | [optional]
+**company_registration_number** | **string** |  | [optional]
+**coop_acceptance** | **string** |  | [optional]
+**customer_uin** | **string** |  | [optional]
+**customer_uin_doc_type** | [**\Savvii\OpenproviderRest\Model\DomainUINDocumentType**](DomainUINDocumentType.md) |  | [optional]
+**domain_name_variants** | **string[]** |  | [optional]
+**eligibility_type** | **string** |  | [optional]
+**eligibility_type_relationship** | **string** |  | [optional]
+**es_annex_acceptance** | **string** |  | [optional]
+**ftld_token** | **string** |  | [optional]
+**gay_donation_acceptance** | **string** |  | [optional]
+**gay_rights_protection_acceptance** | **string** |  | [optional]
+**id_number** | **string** |  | [optional]
+**id_type** | **string** |  | [optional]
+**idn_script** | **string** |  | [optional]
+**insurance_acceptance** | **string** |  | [optional]
+**intended_use** | **string** |  | [optional]
+**law_acceptance** | **string** |  | [optional]
+**legal_type** | **string** |  | [optional]
+**maintainer** | **string** |  | [optional]
+**membership_id** | **string** |  | [optional]
+**mobile_phone_number_verification** | **string** |  | [optional]
+**ngo_ong_eligibility_acceptance** | **string** |  | [optional]
+**ngo_ong_policy_acceptance** | **string** |  | [optional]
+**passport_number** | **string** |  | [optional]
+**rurf_blocked_domains** | **string** |  | [optional]
+**self_service** | **string** |  | [optional]
+**trademark** | **string** |  | [optional]
+**trademark_id** | **string** |  | [optional]
+**travel_acceptance** | **string** |  | [optional]
+**vat** | **string** |  | [optional]
+**verification_code** | **string** |  | [optional]
+**vote_acceptance** | **string** |  | [optional]
+**voto_acceptance** | **string** |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
